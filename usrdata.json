@@ -1,22 +1,14 @@
 [
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-12-31",
+    "id": "abc123def456ghi789",
+    "key": "key1",
+    "expiresAt": "2025-05-30",
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
     "allowOffline": false
-  },
-  {
-    "id": "9bb01cef9b427022",
-    "username": "kenzo",
-    "password": "key01",
-    "expiresAt": "2026-06-31",
-    "allowOffline": false
+  }
 ]
