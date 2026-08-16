@@ -15,7 +15,7 @@
     "id": "device id",
     "key": "user3",
     "expiresAt": "2026-08-20",
-    "allowOffline": false 
+    "allowOffline": true 
   },
   {
     "id": "device id",
@@ -27,7 +27,7 @@
     "id": "device id",
     "key": "user5",
     "expiresAt": "2026-08-11",
-    "allowOffline": false 
+    "allowOffline": true 
   },
   {
     "id": "device id",
@@ -39,7 +39,7 @@
     "id": "device id",
     "key": "user7",
     "expiresAt": "2026-08-11",
-    "allowOffline": false 
+    "allowOffline": true 
   },
   {
     "id": "device id",
@@ -51,7 +51,7 @@
     "id": "device id",
     "key": "user9",
     "expiresAt": "2026-08-11",
-    "allowOffline": false 
+    "allowOffline": true 
   },
   {
     "id": "device id",
@@ -63,7 +63,7 @@
     "id": "device id",
     "key": "user11",
     "expiresAt": "2026-08-11",
-    "allowOffline": false 
+    "allowOffline": true 
   },
   {
     "id": "device id",
@@ -75,7 +75,7 @@
     "id": "device id",
     "key": "user13",
     "expiresAt": "2026-08-11",
-    "allowOffline": false 
+    "allowOffline": true 
   },
   {
     "id": "device id",
@@ -87,7 +87,7 @@
     "id": "device id",
     "key": "user15",
     "expiresAt": "2026-08-11",
-    "allowOffline": false  
+    "allowOffline": true  
   }
 ]
 
