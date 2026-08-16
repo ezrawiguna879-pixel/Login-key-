@@ -1,14 +1,14 @@
 [
   {
     "id": "61dc94e32dab1f65",
-    "key": "key1",
+    "key": "kenzo01",
     "expiresAt": "2026-08-17",
     "allowOffline": true
   },
   {
-    "id": "ec2b6791c0746a19",
+    "id": "61dc94e32dab1f65",
     "key": "kenzo",
-    "expiresAt": "2026-08-11",
+    "expiresAt": "2026-08-17",
     "allowOffline": false
   },
   {
