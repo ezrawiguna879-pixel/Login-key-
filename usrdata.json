@@ -1,91 +1,91 @@
 [
   {
     "id": "device id",
-    "key": "kenzo01",
+    "key": "user1",
     "expiresAt": "2026-08-17",
     "allowOffline": true
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user2",
     "expiresAt": "2026-08-17",
     "allowOffline": false
   },
   {
     "id": "device id",
-    "key": "bodat01",
+    "key": "user3",
     "expiresAt": "2026-08-20",
     "allowOffline": false 
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user4",
     "expiresAt": "2026-08-11",
     "allowOffline": false
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user5",
     "expiresAt": "2026-08-11",
     "allowOffline": false 
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user6",
     "expiresAt": "2026-08-11",
     "allowOffline": false
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user7",
     "expiresAt": "2026-08-11",
     "allowOffline": false 
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user8",
     "expiresAt": "2026-08-11",
     "allowOffline": false
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user9",
     "expiresAt": "2026-08-11",
     "allowOffline": false 
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user10",
     "expiresAt": "2026-08-11",
     "allowOffline": false
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user11",
     "expiresAt": "2026-08-11",
     "allowOffline": false 
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user12",
     "expiresAt": "2026-08-11",
     "allowOffline": false
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user13",
     "expiresAt": "2026-08-11",
     "allowOffline": false 
   },
   {
     "id": "device id",
-    "key": "kenzo",
+    "key": "user14",
     "expiresAt": "2026-08-11",
     "allowOffline": false
   },
   {
-    "id": "ec2b6791c0746a19",
-    "key": "kenzo",
+    "id": "device id",
+    "key": "user15",
     "expiresAt": "2026-08-11",
     "allowOffline": false  
   }
