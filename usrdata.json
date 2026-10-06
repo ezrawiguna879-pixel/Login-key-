@@ -48,7 +48,7 @@
     "allowOffline": false
   },
   {
-    "id": "device id",
+    "id": "f1fc4dd180646c56",
     "key": "JEFRI01",
     "expiresAt": "2026-11-01",
     "allowOffline": true 
@@ -109,7 +109,7 @@
   },
   {
     "id": "device id",
-    "key": "user4",
+    "key": "RIZAL01",
     "expiresAt": "2026-11-01",
     "allowOffline": false
   },
