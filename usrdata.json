@@ -24,14 +24,14 @@
     "allowOffline": false
   },
   {
-    "id": "device id",
-    "key": "ARDI01",
+    "id": "56433a4bb7104dea",
+    "key": "HERU01",
     "expiresAt": "2026-11-01",
     "allowOffline": true 
   },
   {
-    "id": "device id",
-    "key": "user6",
+    "id": "48bf75d76b923e56",
+    "key": "ANDRA01",
     "expiresAt": "2026-11-01",
     "allowOffline": false
   },
