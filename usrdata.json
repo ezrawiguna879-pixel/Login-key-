@@ -73,31 +73,31 @@
   },
   {
     "id": "device id",
-    "key": "user13",
+    "key": "EKI01",
     "expiresAt": "2026-11-01",
     "allowOffline": true 
   },
   {
     "id": "device id",
-    "key": "user14",
+    "key": "ANDRE01",
     "expiresAt": "2026-11-01",
     "allowOffline": false
   },
   {
     "id": "device id",
-    "key": "user15",
+    "key": "HELMI01",
     "expiresAt": "2026-11-01",
     "allowOffline": true  
   },
   {
     "id": "ec2b6791c0746a19",
-    "key": "kenzo",
+    "key": "LASE01",
     "expiresAt": "2026-11-01",
     "allowOffline": true
   },
   {
     "id": "61dc94e32dab1f65",
-    "key": "tester",
+    "key": "MAMEK01",
     "expiresAt": "2026-11-01",
     "allowOffline": false
   },
